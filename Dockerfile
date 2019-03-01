@@ -1,4 +1,4 @@
-FROM kong:0.11
+FROM kong:1.1.0rc1
 
 MAINTAINER Henrique Canto Duarte hcanto@cpqd.com.br
 
